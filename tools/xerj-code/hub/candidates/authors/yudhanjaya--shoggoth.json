@@ -1,9 +1,9 @@
 {
- "corpus": "yudhanjaya--zest",
+ "corpus": "yudhanjaya--shoggoth",
  "cloned_at": null,
  "status": "draft",
  "shelf": "AI",
- "domain": "an agent working on Python queries this for how yudhanjaya/Zest implements it: A friendly console for local AI: chat, agent, models, GPU selection and backends (selected work: zest)",
+ "domain": "an agent working on Python queries this for how yudhanjaya/Shoggoth implements it: A friendly console for local AI: chat, agent, models, GPU selection and backends (selected work: zest)",
  "repos": [
   {
    "repo": "Zest",
