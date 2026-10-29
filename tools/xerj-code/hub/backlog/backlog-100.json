@@ -13663,6 +13663,20 @@
     }
    ],
    "status": "live"
+  },
+  {
+   "cat": "AI",
+   "domain": "an agent working on evidence-based study support queries this for idempotent learning records, diagnosis admission, memory fitting and budgeted prerequisite scheduling",
+   "lane": "A",
+   "refresh": "pinned",
+   "slug": "wysking--postgrad-study-engine",
+   "sources": [
+    {
+     "licence_hint": "MIT Python; CC-BY-4.0 documents/contracts/examples by file, not OR",
+     "url": "https://github.com/wysking/postgrad-study-engine"
+    }
+   ],
+   "status": "live"
   }
  ],
  "lanes": [
